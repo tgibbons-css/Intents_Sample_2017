@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intents Samples</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="intents">
+        <item>Select an Intent</item>
+        <item>Open Browser</item>
+        <item>Call Someone</item>
+        <item>Text Someone</item>
+        <item>Show Map</item>
+        <item>Search on Map</item>
+        <item>Take picture</item>
+        <item>Show contacts</item>
+        <item>Add event to calendar</item>
+        <item>Set alarm</item>
+    </string-array>
+
+</resources>
